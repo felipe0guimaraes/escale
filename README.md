@@ -1,0 +1,2 @@
+# escale
+Exemplo de código
