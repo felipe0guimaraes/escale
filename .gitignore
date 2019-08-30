@@ -1,0 +1,13 @@
+target
+*.jar
+*.class
+*.project
+*.settings
+*.classpath
+*.iml
+.idea
+*.factorypath
+/.apt_generated/
+.project
+/bin/
+*.scannerwork
